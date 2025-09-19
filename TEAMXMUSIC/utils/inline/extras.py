@@ -1,6 +1,6 @@
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import config
-from AloneX import app
+from TEAMXMUSIC import app
 from config import SUPPORT_CHAT
 
 
